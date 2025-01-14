@@ -3,7 +3,7 @@
  * @wordpress-plugin
  * Plugin Name: Ketchup Shortcodes Pack
  * Description: This plugin enables some nice shortcodes for use with a theme.
- * Version: 0.2.0
+ * Version: 0.2.1
  * Requires at least: 3.5.1
  * Tested up to: 6.7
  * Author: AyeCode Ltd
